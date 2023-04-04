@@ -1,3 +1,8 @@
+/*
+ * Leia um valor de massa em quilogramas e apresente-o convertido em libras. A formula 
+de conversao˜ é L = kg /0,45 , sendo K a massa em quilogramas e L a massa em libras.
+ */
+
 import java.util.Scanner;
 
 public class Libras020 {

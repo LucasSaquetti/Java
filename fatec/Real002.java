@@ -1,3 +1,7 @@
+/*
+ * Faca um programa que leia um numero real e o imprima
+ */
+
 import java.io.IOException;
 import java.util.Scanner;
 

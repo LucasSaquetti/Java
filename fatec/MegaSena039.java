@@ -1,3 +1,11 @@
+/*
+ * A importancia de R$ 780.000,00 sera dividida entre tres ganhadores de um concurso.
+Sendo que da quantia total:
+• O primeiro ganhador recebera 46%; 
+• O segundo recebera 32%; 
+• O terceiro recebera o restante;
+ */
+
 import java.util.Scanner;
 
 public class MegaSena039 {

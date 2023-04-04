@@ -1,3 +1,7 @@
+/*
+ * Façã um programa que calcule a distancia entre dois pontos do plano cartesiano
+ */
+
 import javax.swing.JOptionPane;
 
 public class Distancia {

@@ -1,3 +1,9 @@
+/*
+ * Leia um valor de area em acres e apresente-o convertido em metros quadrados m2.
+A formula de conversão e:  M = A ∗ 4048, 58, sendo M a area em metros quadrados e  A a
+area em acres. 
+ */
+
 import javax.swing.JOptionPane;
 
 public class Acres025 {

@@ -1,3 +1,7 @@
+/*
+ * Faca um programa que leia um numero inteiro e o imprima.
+ */
+
 import javax.swing.JOptionPane;
 
 public class Inteiro001 {

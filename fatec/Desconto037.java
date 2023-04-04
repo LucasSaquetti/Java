@@ -1,3 +1,8 @@
+/*
+ * Faca um programa que leia o valor de um produto e imprima o valor com desconto, tendo
+em vista que o desconto foi de 12%
+ */
+
 import javax.swing.JOptionPane;
 
 public class Desconto037 {

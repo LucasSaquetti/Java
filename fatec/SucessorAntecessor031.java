@@ -1,3 +1,7 @@
+/*
+ * Leia um numero inteiro e imprima o seu antecessor e o seu sucessor.
+ */
+
 import java.util.Scanner;
 
 public class SucessorAntecessor031 {

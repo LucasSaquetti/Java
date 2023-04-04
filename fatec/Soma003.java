@@ -1,3 +1,7 @@
+/*
+ * Peca ao usuario para digitar tres valores inteiros e imprima a soma deles.
+ */
+
 import java.util.Scanner;
 
 public class Soma003 {

@@ -1,3 +1,7 @@
+/*
+ * Faca a leitura de tres valores e apresente como resultado a soma dos quadrados dos tres valores lidos.
+ */
+
 import javax.swing.JOptionPane;
 
 public class SomaQuadrado028 {

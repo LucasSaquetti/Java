@@ -1,3 +1,7 @@
+/*
+ * Leia um valor em real e a cotacao do dolar. Em seguida, imprima o valor correspondente em dolares
+ */
+
 import javax.swing.JOptionPane;
 
 public class Cotacao030 {

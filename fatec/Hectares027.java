@@ -1,3 +1,8 @@
+/*
+ * Leia um valor de area em hectares e apresente-o convertido em metros quadrados m2.
+A formula de conversao e:  M = H ∗ 10000, sendo M a area em metros quadrados e H a area em hectares.
+ */
+
 import javax.swing.JOptionPane;
 
 public class Hectares027 {

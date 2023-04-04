@@ -1,3 +1,7 @@
+/*
+ * Leia um numero real e imprima o resultado do quadrado desse nuumero.
+ */
+
 import java.util.Scanner;
 
 public class RealQuadrado004 {

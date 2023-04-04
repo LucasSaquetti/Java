@@ -1,3 +1,7 @@
+/*
+ * Leia um numero real e imprima a quinta parte deste numero.
+ */
+
 import java.util.Scanner;
 
 public class Real005 {

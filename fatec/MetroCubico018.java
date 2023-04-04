@@ -1,3 +1,9 @@
+/*
+ * Leia um valor de volume em metros cubicos m3 e apresente-o convertido em litros.
+ *  A formula de conversao é: L = 1000 ∗ M, sendo L o volume em litros e M o volume em
+metros cubicos.
+ */
+
 import javax.swing.JOptionPane;
 
 public class MetroCubico018 {

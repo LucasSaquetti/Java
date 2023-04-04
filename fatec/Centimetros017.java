@@ -1,3 +1,10 @@
+/*
+ * Leia um valor de comprimento em centimetros e apresente-o convertido em polegadas.
+A formula de conversao e: P = C  / 2,54 , sendo C o comprimento em centimetros e P o
+comprimento em polegadas.
+
+ */
+
 import javax.swing.JOptionPane;
 
 public class Centimetros017 {

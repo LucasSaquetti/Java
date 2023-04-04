@@ -1,3 +1,9 @@
+/*
+ * Leia um valor de comprimento em jardas e apresente-o convertido em metros. A formula
+de conversao e: M = 0, 91 ∗ J, sendo J o comprimento em jardas e M o comprimento
+em metros.
+ */
+
 import java.util.Scanner;
 
 public class Jardas022 {

@@ -1,3 +1,8 @@
+/*
+ * Leia uma distancia em milhas e apresente-a convertida em quilometros.
+ *  A formula de conversao é: K = 1, 61 ∗ M, sendo K a distancia em quilometros e M em milhas.
+ */
+
 import java.util.Scanner;
 
 public class Milhas012 {

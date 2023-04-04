@@ -1,3 +1,10 @@
+/*
+Tres amigos jogaram na loteria. Caso eles ganhem, o pr ˆ emio deve ser repartido pro- ˆ
+porcionalmente ao valor que cada deu para a realizac¸ao da aposta. Fac¸a um programa ˜
+que leia quanto cada apostador investiu, o valor do premio, e imprima quanto cada um ˆ
+ganharia do premio com base no valor investido.
+ */
+
 import java.util.Scanner;
 
 public class Loteria052 {

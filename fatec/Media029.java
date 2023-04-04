@@ -1,3 +1,7 @@
+/*
+ * Leia quatro notas, calcule a media aritmética e imprima o resultado
+ */
+
 import javax.swing.JOptionPane;
 
 public class Media029 {
